@@ -1,0 +1,25 @@
+body, input {
+	font: 0.9em Tahoma Sans-serif;
+}
+
+.title {
+	font-weight: normal;
+}
+
+.container {
+	width: 100;
+	max-width: 600px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+input {
+	padding: 10px;
+	background: #fff;
+	border: 1px solid #888;
+	margin: 5px;
+}
+
+input [type=text], input [type=password] {
+	width: 300px;
+}
